@@ -21,6 +21,7 @@ For day to day communication, currently [Tobii Dynavox Communicator 4](http://ww
 ### Active used and maintained
 | Project | Description |
 | --- | --- |
+| [KiepTobiiCommunicator4](https://github.com/Joozt/KiepTobiiCommunicator/tree/master/Tobii4) | Tobii Dynavox Communicator 4 page sets |
 | [KiepTimer](https://github.com/Joozt/KiepTimer) | C# WPF application that shows a notification overlay at a given interval |
 | [KiepRover](https://github.com/Joozt/KiepRover) | C# WPF application for CloudRover wifi RC car |
 | [KiepLamp](https://github.com/Joozt/KiepLamp) | C# WPF application for switching devices and running scenes on Vera Z-wave controller |
@@ -31,6 +32,7 @@ For day to day communication, currently [Tobii Dynavox Communicator 4](http://ww
 ### Under development
 | Project | Description |
 | --- | --- |
+| [KiepTobiiCommunicator5](https://github.com/Joozt/KiepTobiiCommunicator/tree/master/Tobii5) | Tobii Dynavox Communicator 5 page sets |
 | [ABC-TTS](https://github.com/Joozt/ABC-TTS) | An alphabet reader Android app to form single words for Text-To-Speech, purely touch and audio based |
 
 ### Experiments
