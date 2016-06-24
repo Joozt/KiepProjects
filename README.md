@@ -11,6 +11,8 @@ Context:
  - Limited control over head motion (nodding is possible, but takes lot of effort)
  - Limited vision (one eye not usable and other eye limited usable)
  - Technical background
+ - A Panasonic Toughbook running Windows 10 mounted on wheelchair
+ - Fixed desktop PC with large 42" TV screen running Windows 10
 
 ![Kiep](Kiep.jpg)
 
