@@ -16,6 +16,8 @@ Context:
 
 ![Kiep](Kiep.jpg)
 
+For day to day communication, currently [Tobii Dynavox Communicator 4](http://www.tobiidynavox.com/support/communicator-4/) is used. The fully customized page sets can be found [here](https://github.com/Joozt/KiepTobiiCommunicator/tree/master/Tobii4), including screenshots and the relation to the tools listed below.
+
 ### Active used and maintained
 | Project | Description |
 | --- | --- |
