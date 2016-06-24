@@ -46,4 +46,4 @@ Context:
 | [KiepMouseSpeed](https://github.com/Joozt/KiepMouseSpeed) | C++ application to change the Windows mouse speed by absolute or relative value |
 | [KiepWebcam](https://github.com/Joozt/KiepWebcam) | C# WPF application that shows fullscreen single JPG webcam images |
 | [KiepTeletext](https://github.com/Joozt/KiepTeletext) | C# WPF Viewer for the Dutch NOS teletext |
-| [KiepCommunicationSoftware](https://github.com/KiepCommunicationSoftware/) | The first communication tools we created for Kiep |
+| [KiepCommunicationSoftware](https://github.com/Joozt/KiepCommunicationSoftware) | The first communication tools we created for Kiep |
