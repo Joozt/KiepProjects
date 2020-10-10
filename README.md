@@ -32,7 +32,7 @@ For day to day communication, currently [Tobii Dynavox Communicator 5](http://ww
 ### Under development
 | Project | Description |
 | --- | --- |
-| [ABC-TTS](https://github.com/Joozt/ABC-TTS) | An alphabet reader Android app to form single words for Text-To-Speech, purely touch and audio based |
+| [KiepKeyboard](https://github.com/Joozt/KiepKeyboard) | Lightweight Android phone + hardware keyboard communication setup |
 
 ### Experiments
 | Project | Description |
@@ -44,6 +44,7 @@ For day to day communication, currently [Tobii Dynavox Communicator 5](http://ww
 ### Obsolete (no longer used and/or maintained)
 | Project | Description |
 | --- | --- |
+| [ABC-TTS](https://github.com/Joozt/ABC-TTS) | An alphabet reader Android app to form single words for Text-To-Speech, purely touch and audio based |
 | [KiepTobiiCommunicator4](https://github.com/Joozt/KiepTobiiCommunicator/tree/master/Tobii4) | Tobii Dynavox Communicator 4 page sets |
 | [KiepMissileLauncher](https://github.com/Joozt/KiepMissileLauncher) | C# WPF shell for USB Missile Launcher, that can be controlled with 2 buttons |
 | [KiepEmailExport](https://github.com/Joozt/KiepEmailExport) | C# Forms application for downloading e-mail content from Gmail POP3 into HTML |
